@@ -11,6 +11,10 @@ const Home = () => {
         <Hero />
         <Latest_Transaction />
       </div>
+      <div className="flex flex-row justify-between items-center">
+        <Hero />
+        <Latest_Transaction />
+      </div>
     </div>
   );
 };
