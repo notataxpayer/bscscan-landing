@@ -114,7 +114,7 @@ const Latest_Transaction = () => {
             <div className="flex">
               <button className="flex border-2 px-2 py-2 rounded-xl ml-auto">
                 {" "}
-                {block.amount} BNB{" "}
+                {block.amount} MB{" "}
               </button>
             </div>
           </div>
